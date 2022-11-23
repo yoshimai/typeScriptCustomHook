@@ -1,2 +1,2 @@
-# TypeScriptCustumHook
+# TypeScriptCustomHook
 Created with CodeSandbox
